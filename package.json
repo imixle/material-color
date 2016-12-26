@@ -1,0 +1,27 @@
+{
+  "name": "material-color",
+  "version": "0.0.0",
+  "description": "Material Color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imixle/material-color.git"
+  },
+  "keywords": [
+    "Material",
+    "Color"
+  ],
+  "author": "Dhales Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imixle/material-color/issues"
+  },
+  "homepage": "https://github.com/imixle/material-color#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0"
+  }
+}
